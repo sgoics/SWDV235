@@ -1,0 +1,2 @@
+C:\Murach\aspnet46_cs\exercises\Project1\obj\x86\Debug\Project1.vbprojAssemblyReference.cache
+C:\Murach\aspnet46_cs\exercises\Project1\obj\x86\Debug\Project1.vbproj.CoreCompileInputs.cache
